@@ -1,0 +1,16 @@
+======================================================================================================
+create A responsive Web App using React also Connect with the Backend  ---- || ---- Create The app for the same == ==== 
+=====================================================================================================
+12th Class Student Progress portfolio
+--------------------------------------------------------------
+Sections 
+1 > Home  > developer > contact us > 
+2> Select Exam  NEET / CET  / JEE /  JEE-Advance   scope : Add More Exam Link 
+3> Select the date of exam and  Time-table
+4> Select the Subjects Or Direct Option after selection Of paper 
+5> Submit the exam Marks > Subject wise 
+6 > Compare Exam with The last Exam Marks 
+7 > Add The keynotes and mark the mistake and Pros and Cons of it
+8 > select the statics of graph of the exam marks   { 1. make options for graph statics and some other representation of it  }
+9 >   create a search button for directly searching the date of Exam
+10 > Sort for the Exams Month  &  Monthly Report wise before Search 
